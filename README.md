@@ -343,7 +343,6 @@ get_asset ENDORSEMENTASSET1
 
 ## Authors
 
-* **Matias Romeo** - [elmato](https://github.com/elmato)
 * **Pablo Tutino** - [dargonar](https://github.com/dargonar)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
@@ -356,5 +355,5 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3 - see th
 
 * [Nicolas Echaniz](https://github.com/nicoechaniz)
 * [Rogelio Segovia](https://www.linkedin.com/in/rogeliosegovia/)
-
+* [Matias Romeo - elmato](https://github.com/elmato)
 
