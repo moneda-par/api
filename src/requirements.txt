@@ -1,0 +1,14 @@
+flask
+flask_graphql==1.4.1
+flask_cors
+graphene==1.4.2
+requests
+simplejson
+python-memcached
+websocket-client
+python-memcached
+sqlalchemy
+pymysql
+sqlalchemy-datatables
+gevent
+# sudo apt-get install memcached

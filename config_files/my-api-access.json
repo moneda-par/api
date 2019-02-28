@@ -1,0 +1,14 @@
+{
+   "permission_map" :
+   [
+      [
+         "my_ws_user",
+         {
+            "password_hash_b64" : "9e9GF7ooXVb9k4BoSfNIPTelXeGOZ5DrgOYMj94elaY=",
+            "password_salt_b64" : "INDdM6iCi/8=",
+            "allowed_apis" : ["database_api", "network_broadcast_api", "history_api", "network_node_api", "asset_api", "block_api"]
+         }
+      ]
+   ]
+}
+
